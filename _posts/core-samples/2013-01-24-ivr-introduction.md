@@ -1,7 +1,7 @@
 ---
 layout: post
-category : lessons
-tags : [intro, beginner, jekyll, tutorial]
+category : IVR
+tags : [intro, beginner, motech, motechsuite, tutorial]
 ---
 {% include JB/setup %}
 
